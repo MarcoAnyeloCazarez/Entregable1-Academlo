@@ -1,4 +1,4 @@
-import React from 'react';
+// import React from 'react';
 import { useState } from 'react';
 import quotes from '../quotes.json'
 import colors from './Colors';
